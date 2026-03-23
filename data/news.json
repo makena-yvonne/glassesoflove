@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "slug": "love-in-255",
+      "title": "Love in 255 — Upcoming: Huruma Orphans & Arusha",
+      "date": "2026-03-24",
+      "category": "project",
+      "excerpt": "Upcoming event 18 April 2026. Browse flyers and the full Nairobi–Arusha itinerary — partners Klub Afrika & SEINMAA.",
+      "image": "images/news/love-in-255-flyer.png"
+    },
+    {
+      "slug": "introducing-gol-news",
+      "title": "Introducing GOL News",
+      "date": "2026-03-15",
+      "category": "update",
+      "excerpt": "We use this space for project highlights, blogs, and foundation updates.",
+      "image": null
+    },
+    {
+      "slug": "school-visit-highlights",
+      "title": "School visit highlights",
+      "date": "2026-02-20",
+      "category": "project",
+      "excerpt": "Stories from recent school visits — add your own when ready.",
+      "image": null
+    }
+  ]
+}
